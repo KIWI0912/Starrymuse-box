@@ -5,6 +5,24 @@
 
 ---
 
+## ⚡ Quick Start / 快速启动
+
+```bash
+git clone https://github.com/KIWI0912/starrymuse-box.git && cd starrymuse-box && npm install && npm run dev
+```
+
+一行命令，克隆 + 安装 + 启动，完成。
+
+---
+
+## 🚀 One-Click Deploy / 一键部署
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/KIWI0912/starrymuse-box)
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/KIWI0912/starrymuse-box)
+
+---
+
 ## Features / 功能特色
 
 - 💬 Character chat system / 角色对话系统
@@ -26,18 +44,23 @@
 ## Run Locally / 本地运行
 
 ```bash
-# 安装依赖 Install dependencies
+# 第一步 克隆项目
+git clone https://github.com/KIWI0912/starrymuse-box.git
+
+# 第二步 进入文件夹
+cd starrymuse-box
+
+# 第三步 安装依赖
 npm install
 
-# 启动开发服务器 Start dev server
+# 第四步 启动
 npm run dev
 ```
 
----
-
-## Live Demo / 在线体验
-
-> Coming soon / 即将上线
+启动后打开浏览器访问：
+```
+http://localhost:5173
+```
 
 ---
 
