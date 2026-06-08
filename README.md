@@ -185,12 +185,6 @@ http://localhost:5173
 
 ---
 
-## Live Demo / 在线体验
-
-> Coming soon / 即将上线
-
----
-
 ## License / 许可证
 
 MIT © KIWI0912
